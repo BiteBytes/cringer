@@ -1,0 +1,14 @@
+{
+  "config": {
+    "processes": 5,
+    "broker_url": "amqp://estest:bi9cah8U@52.30.236.204:5672//",
+    "redis_ip": "34.242.131.97",
+    "redis_password": "xN9e6ak2Ejlh",
+    "servers": [
+      {
+        "ip": "185.154.160.67",
+        "port": 27600
+      }
+    ]
+  }
+}

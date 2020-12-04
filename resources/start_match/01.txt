@@ -1,0 +1,63 @@
+{
+  "id": "59ef5530e60c195cb7580d51",
+  "config": {
+    "num_teams": 2,
+    "num_players": 1,
+    "game_name": "csgo",
+    "matches_num": 2,
+    "rounds_num": 8,
+    "map": "de_aztec",
+    "round_time": 105,
+    "c4_time": 10,
+    "restrictions": [],
+    "warmup_secs": 30,
+    "secs_to_validate_match": 300,
+    "secs_after_disconnection": 150,
+    "valid_team_players": 1,
+    "mode": "cl",
+    "freeze_time": 5,
+    "best_of_n_rounds": true,
+    "play_knife_round": true,
+    "helmet": true
+  },
+  "server": {
+    "id": "587e019295369e0f90b19fd5",
+    "name": "SPAIN_2",
+    "ip": "185.154.160.67",
+    "port": 27504,
+    "password": "",
+    "config": "hb_RMBUEO.cfg",
+    "status": "IN_USE"
+  },
+  "game_name": "csgo",
+  "teams": [
+    {
+      "id": "59ef552652c4aef72eac8781",
+      "team": "59ef5530e60c195cb7580d4f",
+      "players": [
+        {
+          "id": "59ef5530e60c195cb7580d53",
+          "steam_id_hb": "57161168",
+          "steam_id_community": "STEAM_0:1:57161168",
+          "ip": null
+        }
+      ],
+      "weight": 1,
+      "ghost_team": false
+    },
+    {
+      "id": "59ef552652c4aef72eac8782",
+      "team": "59ef5530e60c195cb7580d50",
+      "players": [
+        {
+          "id": "59ef5530e60c195cb7580d55",
+          "steam_id_hb": "149688811",
+          "steam_id_community": "STEAM_0:0:149688811",
+          "ip": null
+        }
+      ],
+      "weight": 2,
+      "ghost_team": false
+    }
+  ]
+}
